@@ -1,4 +1,5 @@
 # unity-kabocha
+![かぼちゃ](https://pbs.twimg.com/media/ElqeNLjU0AA2AAC?format=jpg&name=large)
 ## Required assets
  - [Arktoon-Shaders](https://booth.pm/ja/items/1027997)
 ## How to use
